@@ -6,3 +6,6 @@
 [processori](componenti/processori.md)
 
 Elettronica Padovana
+
+
+## periferiche
